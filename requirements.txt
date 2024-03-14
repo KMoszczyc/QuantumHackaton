@@ -1,0 +1,4 @@
+matplotlib==3.7
+qiskit==0.43
+pylatexenc==2.10
+jupyter
